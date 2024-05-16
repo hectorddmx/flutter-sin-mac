@@ -24,7 +24,7 @@ Puedes usar proveedores como odevio que configuran varias cosas desde Windows pa
 
 Involucran virtualizar macOS en tu máquina, o usar una máquina rentada en la nube.
 
-### Virtualizar macOS con VMWare en tu maquina de Windows: https://www.youtube.com/watch?v=SlH35WDOduA
+### Virtualizar macOS con VMWare en tu maquina de Windows: 
 
 - https://www.youtube.com/watch?v=SlH35WDOduA
 
